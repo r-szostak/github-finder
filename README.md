@@ -1,8 +1,3 @@
-[![Forks][forks-shield]][https://github.com/r-szostak/github-finder/network/members]
-[![Stargazers][stars-shield]][https://github.com/r-szostak/github-finder/stargazers]
-[![Issues][issues-shield]][https://github.com/r-szostak/github-finder/issues]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/rsz/]
-
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -81,7 +76,7 @@ Learn how to create a token [here](https://docs.github.com/en/authentication/kee
 
 ### Installation
 
-1. Get a free API Key at [https://github.com](https://github.com)
+1. Get a free token at [https://github.com](https://github.com)
 2. Clone the repo
    ```sh
    git clone https://github.com/r-szostak/github-finder.git
@@ -90,10 +85,16 @@ Learn how to create a token [here](https://docs.github.com/en/authentication/kee
    ```sh
    npm install
    ```
-4. Enter your API in `.env` file
+4. Enter your token in `.env` file
    ```js
    const REACT_APP_GITHUB_TOKEN = "ENTER YOUR API"
    ```
+
+### Run
+
+```sh
+npm start
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
