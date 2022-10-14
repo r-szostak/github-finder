@@ -13,7 +13,7 @@
     <br />
     <br />
     <br />
-    <a href="https://github-finder-app-theta-ten.vercel.app">View Demo</a>
+    <a href="[https://github-finder-app-theta-ten.vercel.app](https://github-finder-app-r-szostak.vercel.app)">View Demo</a>
     ·
     <a href="https://github.com/r-szostak/github-finder/issues">Report Bug</a>
     ·
